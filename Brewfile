@@ -73,6 +73,8 @@ brew "fzf"
 brew "gawk"
 # GitHub command-line tool
 brew "gh"
+# GitHub MCP server
+brew "github-mcp-server"
 # Distributed revision control system
 brew "git"
 # Syntax-highlighting pager for git and diff output
@@ -129,8 +131,6 @@ brew "navi"
 brew "neovim"
 # Shell command parallelization utility
 brew "parallel"
-# Execute binaries from Python packages in isolated environments
-brew "pipx"
 # Python package management tool
 brew "poetry"
 # PDF rendering library (based on the xpdf-3.0 code base)
@@ -181,6 +181,8 @@ brew "yaml-language-server"
 brew "yamlfmt"
 # JavaScript package manager
 brew "yarn"
+# Fast, disk space efficient package manager
+brew "pnpm"
 # Blazing fast terminal file manager written in Rust, based on async I/O
 brew "yazi"
 # Pluggable terminal workspace, with terminal multiplexer as the base feature
@@ -211,6 +213,8 @@ cask "chatgpt"
 cask "cheatsheet"
 # Terminal-based AI coding assistant
 cask "claude-code"
+# Claude Squad CLI tool
+brew "claude-squad"
 # Voice and text chat software
 cask "discord"
 # Utility to show apps badges from the dock in the menu bar
@@ -221,27 +225,3 @@ cask "font-jetbrains-mono-nerd-font"
 cask "ghostty"
 # JDK from the Eclipse Foundation (Adoptium)
 cask "temurin"
-mas "AdBlock Pro", id: 1018301773
-mas "BetterSnapTool", id: 417375580
-mas "Canva", id: 897446215
-mas "Capital One Shopping", id: 1477110326
-mas "ColorSlurp", id: 1287239339
-mas "Creator's Best Friend", id: 1524172135
-mas "Dark Reader for Safari", id: 1438243180
-mas "Disk Diag", id: 672206759
-mas "Grammarly for Safari", id: 1462114288
-mas "hide.me", id: 953040671
-mas "Image2Icon", id: 992115977
-mas "Memory Diag", id: 748212890
-mas "Numbers", id: 409203825
-mas "PayPal Honey", id: 1472777122
-mas "Pictura", id: 6451364124
-mas "Screen-Timelapse-lite", id: 1452228487
-mas "Spring", id: 1508706541
-mas "Telegram", id: 747648890
-mas "Things", id: 904280696
-mas "Time Zone Converter and Clock", id: 1255311569
-mas "TubeBuddy for YouTube", id: 1200948946
-mas "Unzip - RAR ZIP 7Z Unarchiver", id: 1537056818
-mas "Webcam Settings", id: 533696630
-mas "Windows App", id: 1295203466
