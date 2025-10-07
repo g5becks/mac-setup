@@ -142,7 +142,7 @@ brew "pyright"
 # Python Language Server for the Language Server Protocol
 brew "python-lsp-server"
 # Interpreted, interactive, object-oriented programming language
-brew "python@3.12"
+brew "python"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
 # Extremely fast Python linter, written in Rust
@@ -191,6 +191,8 @@ brew "zellij"
 brew "zoxide"
 # Additional completion definitions for zsh
 brew "zsh-completions"
+# Modular, customizable, and blazing fast Zsh framework
+brew "zimfw"
 # A simple terminal UI for managing SSH connections.
 brew "adembc/tap/lazyssh"
 # An npm scripts runner written in Rust.
@@ -205,6 +207,8 @@ brew "rsteube/tap/carapace"
 cask "alfred"
 # Tool to flash OS images to SD cards & USB drives
 cask "balenaetcher"
+# Manage your dotfiles across multiple diverse machines, securely
+brew "chezmoi"
 # Display management tool
 cask "betterdisplay"
 # OpenAI's official ChatGPT desktop app
